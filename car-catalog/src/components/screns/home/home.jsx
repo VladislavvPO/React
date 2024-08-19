@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <h1>
-        Cars-catalog
+        Cars-catalog 2
       </h1>
     </>
   )
